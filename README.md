@@ -1,4 +1,4 @@
-# vision
+# Vision
 vision's article and architecture 
 
 ## Introduction
